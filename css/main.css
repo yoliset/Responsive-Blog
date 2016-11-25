@@ -2,7 +2,7 @@
 
 /* Responsive */
 *{
-    outline: 1px solid red;
+   
 }
 .container{
     width: 900px;
@@ -150,7 +150,8 @@ header img{
 }
 .relleno i{
     background-color: white;
-    padding: 2px;
+    margin-left: 14px;
+    
 }
 .block-form{
  
